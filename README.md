@@ -1,37 +1,8 @@
-# BOTSPAM
+<p align="center">
+<a href="https://github.com/innocentbandiop/INNO-SPAM"><img src="https://telegra.ph/file/3f2f91eb82b44ef03f8ba.jpg" height="270" width="480" alt="INNO-SPAM"/></a>
+</p>
 
-
-## 👨‍💻 Commands 👨‍💻
-
-<br>
-
-- <b>```/ping```</b> - To Check The Ping Of The Bots
-
-- <b>```/help```</b> - To Get The Help Message On How To Use The Commands
-
-- <b>```/spam <1-100> <text>```</b> - For Value Between 1-100
-
-- <b>```/bigspam <101-9999> <text>```</b> - For Value Between 100-10000
-
-- <b>```/delayspam <delay> <count> <text>```</b> - To Add The Delay Of Some Time Between Each Message Sending Time 
-
-- <b>```/replyraid <reply to person>```</b> - To Activate Raid For Replied Person
-
-- <b>```/dreplyraid <reply to person>```</b> - To Deactivate Raid For Replied Person
-
-- <b>```/raid <number> <reply to person>```</b> - To Raid The Person You Tagged
-
-- <b>```/restart```</b> - To Restart Your Bots
-<br>
-
-## ⚡ Deploy On Heroku ⚡
-
-<br>
-
-- Fork This Repo
-
-- Edit The Repo Name From Settings
-
-- Then Click The Below Button
-
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/innocentbandiop/INNO-SPAM">
+<img src="innocent bandi/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
+</p>
