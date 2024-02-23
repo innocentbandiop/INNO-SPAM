@@ -1,5 +1,5 @@
 import os
-YOUR_NAME = os.environ.get("YOUR_NAME, {YOUR_NAME}")
+YOUR_NAME = os.environ.get("YOUR_NAME, 亗 Inͥnoͣcͫen† Ɓᴀɴᴅɪ 亗")
 from .. import *
 from telethon import events
 from time import time
